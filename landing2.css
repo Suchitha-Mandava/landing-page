@@ -1,0 +1,51 @@
+body{
+    background-image:url("burgers.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul{
+    float: left;
+    margin-top: 20px;
+    list-style-type: none;
+    margin-left: 70px;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    color: white; 
+    font-weight: bold;
+    padding: 5px;
+}
+ul li a:hover{
+    background-color: white;
+    color: black;
+}
+h1{
+    margin-top: 25px;
+}
+h2{
+    margin-top: 150px;
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+}
+#a1{
+    text-decoration: none;
+    background-color: yellow;
+    color: black;
+    padding: 5px;
+    font-weight: bold;
+    margin-left: 100px;
+}
+#a2{
+    text-decoration: none;
+    background-color: yellow;
+    color: black;
+    padding: 5px;
+    font-weight: bold;
+    float: right;
+    margin-bottom: 100px;    
+}
